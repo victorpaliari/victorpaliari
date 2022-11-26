@@ -1,4 +1,5 @@
-### Oi, eu sou o Victor Paliari 👋
+### Oi, eu sou o Victor! 
+
 <div align="center">
   <a href="https://github.com/victorpaliari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorpaliari&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
