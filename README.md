@@ -10,7 +10,6 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/714922342848921684/1046081133403717722/788DB4C0-37C1-47CF-AD62-31510A6EE278.png">
   <<img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          ">
  
 </div>
 
