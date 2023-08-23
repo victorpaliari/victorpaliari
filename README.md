@@ -9,6 +9,8 @@
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/714922342848921684/1046081133403717722/788DB4C0-37C1-47CF-AD62-31510A6EE278.png">
+  <<img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo">
+ 
 </div>
 
 ##
@@ -17,4 +19,4 @@
  <a href="https://https://discord.gg/VQU3Am3u" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victorrpaliari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victorpaliari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
