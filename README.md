@@ -1,4 +1,4 @@
-<h1 align="center">Oie, eu sou o Victor 👋 </h1>
+<h1 align="center">Oi, eu sou o Victor 👋 </h1>
 <h3 align="center">Desenvolvedor .NET FullStack Junior</h3>
 <br>
 
