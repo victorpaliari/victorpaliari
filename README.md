@@ -12,12 +12,12 @@
 <br>
 
 <div align="center"> 
-  
- - 💻 Atualmente estudando **.NET, REACT & SQL SERVER**
 
- - 👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/brenonsc/Disque011)
+  - 💻 Atualmente estudando **.NET, REACT & SQL SERVER**
 
- - 💬 Me pergunte sobre **qualquer coisa, gosto de conversar!**
+  - 👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/brenonsc/Disque011)
+
+  - 💬 Me pergunte sobre **qualquer coisa, gosto de conversar!**
 
 <br>
 <br>
@@ -28,7 +28,7 @@
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
 <div align="center"> 
- <a href="https://https://discord.gg/VQU3Am3u" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/J2P9ugVE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victorrpaliari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victorpaliari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
