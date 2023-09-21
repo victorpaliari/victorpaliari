@@ -1,15 +1,17 @@
 <h1 align="center">Oi, eu sou o Victor 👋 </h1>
-<h3 align="center">Desenvolvedor .NET FullStack Junior</h3>
+<h3 align="center">Desenvolvedor .NET Full Stack Junior</h3>
 <br>
 
 <p align="center">
-<img alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpaliari&layout=compact&langs_count=16&theme=cobalt2"/>
+  &nbsp; &nbsp; &nbsp; 
+<img alt="GIF" height="180em" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
 
 <br>
 
-- 🌱 Atualmente estudando **.NET, REACT & SQL SERVER**
+- 💻 Atualmente estudando **.NET, REACT & SQL SERVER**
 
 - 👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/brenonsc/Disque011)
 
@@ -19,8 +21,7 @@
 <br>
 
 <div align="center">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=victorpaliari&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpaliari&layout=compact&langs_count=16&theme=github_dark"/>
+ 
 </div>
 
 <br>
