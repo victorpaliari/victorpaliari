@@ -11,31 +11,29 @@
 
 <br>
 
-- 💻 Atualmente estudando **.NET, REACT & SQL SERVER**
+<div align="center"> 
+  
+ - 💻 Atualmente estudando **.NET, REACT & SQL SERVER**
 
-- 👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/brenonsc/Disque011)
+ - 👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/brenonsc/Disque011)
 
-- 💬 Me pergunte sobre **qualquer coisa, gosto de conversar!**
-
-<br>
-<br>
-
-<div align="center">
- 
-</div>
+ - 💬 Me pergunte sobre **qualquer coisa, gosto de conversar!**
 
 <br>
 <br>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<div> 
+<br>
+<br>
+
+<h3 align="center">Conecte-se comigo:</h3>
+<p align="center">
+<div align="center"> 
  <a href="https://https://discord.gg/VQU3Am3u" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victorrpaliari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victorpaliari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<div style="display: inline_block" align="left">
+<h3 align="center">Linguagens e Ferramentas:</h3>
+<div align="center" style="display: inline_block" align="left">
   <img align="center" alt="Java" title="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align='center' alt='C#' title="C#" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="HTML" title="HTML5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
