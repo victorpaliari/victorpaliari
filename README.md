@@ -11,13 +11,8 @@
 
 <br> 
 <p align="right">
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpaliari&layout=compact&langs_count=16&theme=cobalt2"/>
-  &nbsp; &nbsp; &nbsp; &nbsp; 
-<img alt="" height="450em" src="https://github.com/victorpaliari/victorpaliari/blob/main/_6f5d9bba-f5b1-49a6-ac35-b09fb978e519.jpeg">
+<img alt="" height="400em" src="https://github.com/victorpaliari/victorpaliari/blob/main/_6f5d9bba-f5b1-49a6-ac35-b09fb978e519.jpeg">
 </p>
-
-
-
 
 <br>
 <br>
