@@ -1,23 +1,23 @@
-<h1 align="center">Oi, eu sou o Victor 👋 </h1>
-<h3 align="center">Desenvolvedor .NET Full Stack Junior</h3>
+<h1 align="left">Oi, eu sou o Victor 👋 </h1>
+<h3 align="left">Desenvolvedor .NET Full Stack Junior</h3>
 <br>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpaliari&layout=compact&langs_count=16&theme=cobalt2"/>
-  &nbsp; &nbsp; &nbsp; 
-<img alt="GIF" height="180em" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
-
-
-<br>
-
-<div align="center"> 
+<div align="left"> 
 
   - 💻 Atualmente estudando **.NET, REACT & SQL SERVER**
 
   - 👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/brenonsc/Disque011)
 
   - 💬 Me pergunte sobre **qualquer coisa, gosto de conversar!**
+
+<br> 
+<p align="right">
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpaliari&layout=compact&langs_count=16&theme=cobalt2"/>
+  &nbsp; &nbsp; &nbsp; &nbsp; 
+<img alt="" height="450em" src="https://github.com/victorpaliari/victorpaliari/blob/main/_6f5d9bba-f5b1-49a6-ac35-b09fb978e519.jpeg">
+</p>
+
+
+
 
 <br>
 <br>
