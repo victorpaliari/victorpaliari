@@ -1,5 +1,5 @@
 <h1 align="left">Oi, eu sou o Victor 👋 </h1>
-<h3 align="left">Desenvolvedor .NET Full Stack Junior</h3>
+<h3 align="left">Desenvolvedor .NET Fullstack</h3>
 <br>
 <div align="left"> 
 
