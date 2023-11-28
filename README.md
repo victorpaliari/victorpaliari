@@ -9,10 +9,6 @@
 
   - 💬 Me pergunte sobre **qualquer coisa, gosto de conversar!**
 
-<br> 
-<p align="right">
-<img alt="" height="400em" src="https://github.com/victorpaliari/victorpaliari/blob/main/_6f5d9bba-f5b1-49a6-ac35-b09fb978e519.jpeg">
-</p>
 
 <br>
 <br>
