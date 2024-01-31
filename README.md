@@ -1,11 +1,8 @@
-<h1 align="left">Oi, eu sou o Victor 👋 </h1>
-<h3 align="left">Desenvolvedor .NET Fullstack</h3>
+<h1 align="left">Oi, eu sou o Victor Paliari👋 </h1>
 <br>
 <div align="left"> 
 
-  - 💻 Atualmente estudando **.NET, REACT & SQL SERVER**
-
-  - 👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/brenonsc/Disque011)
+  - 💻 Atualmente estou estudando **Java e Desenvolvimento Mobile**
 
   - 💬 Me pergunte sobre **qualquer coisa, gosto de conversar!**
 
