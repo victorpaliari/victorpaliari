@@ -1,9 +1,8 @@
-<h1 align="left">Oi, eu sou o Victor Paliari👋 </h1>
+<h1 align="left">Victor Paliari</h1>
 <br>
 <div align="left"> 
 
   - 💻 Atualmente estou estudando **Java e Desenvolvimento Mobile**
-
   - 💬 Me pergunte sobre **qualquer coisa, gosto de conversar!**
 
 
