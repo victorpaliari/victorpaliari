@@ -2,8 +2,8 @@
 <br>
 <div align="left"> 
 
-  - 💻 Atualmente estou estudando **Java e Desenvolvimento Mobile**
-  - 💬 Me pergunte sobre **qualquer coisa, gosto de conversar!**
+  - 💻 Studying **Python and Data Science** 🐍📊
+  - 💬 Lets code together. 🤘
 
 
 <br>
