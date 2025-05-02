@@ -5,10 +5,10 @@
 
 <div align="left"> 
 
-  - 📝 Addicted to learning 🤓
-  - 🧑‍💻 Tecnology passionate 🥰
-  - 💻 Studying **Python and Data Science** 🐍📊
-  - 💬 Lets code together. 🤘
+- 🎓 Lifelong learner  
+- 👨‍🏫 Education enthusiast  
+- 💻 Studying **Java**  
+- 🤝 Let’s connect and learn together
 
 
 <br>
