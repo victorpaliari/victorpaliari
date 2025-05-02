@@ -5,10 +5,9 @@
 
 <div align="left"> 
 
-- 🎓 Lifelong learner  
-- 👨‍🏫 Education enthusiast  
-- 💻 Studying **Java**  
-- 🤝 Let’s connect and learn together
+- 👨‍🏫 STEAM Educator & Computer Scientist
+- 💻 Currently studying **Java**  
+- 🤝 Let’s connect and build together
 
 
 <br>
