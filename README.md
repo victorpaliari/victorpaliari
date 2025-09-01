@@ -6,7 +6,7 @@
 <div align="left"> 
 
 - 👨‍🏫 STEAM Educator & Computer Scientist
-- 💻 Currently studying **Java**  
+- 💻 Currently teaching **Python**  
 - 🤝 Let’s connect and build together
 
 
