@@ -7,7 +7,7 @@
 
 - 👨‍🏫 STEAM Educator & Computer Scientist
 - 💻 Currently teaching **Python**  
-- 🤝 Let’s connect and build together
+- 🤝 Let’s connect and build together:
 
 
 <br>
