@@ -1,5 +1,5 @@
 <h2 align="left">Hi, nice to meet you! </h2>
-  </h1> I am Victor Paliari </h1>
+  </h1> Hi, I’m Victor Paliari, 3D printing enthusiast, hobbyist woodworker, and fan of the maker movement.</h1>
 <br>
 <br>
 
