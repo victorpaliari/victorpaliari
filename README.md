@@ -1,5 +1,5 @@
 <h2 align="left">Hi, nice to meet you! </h2>
-  </h1> I am Victor Paliari, actually in 5º semester of Computer Science </h1>
+  </h1> I am Victor Paliari </h1>
 <br>
 <br>
 
