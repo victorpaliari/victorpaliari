@@ -1,18 +1,21 @@
-<h2 align="left">Hi, nice to meet you! </h2>
-  </h1> I’m Victor Paliari, 3D printing enthusiast, hobbyist woodworker, and fan of the maker movement.</h1>
-<br>
-<br>
+<h1 align="center">👋 Hi there, I'm Victor Paliari!</h1>
 
-<div align="left"> 
+<p align="center">
+  <b>STEAM Educator • Computer Scientist • Maker & 3D Printing Enthusiast</b><br>
+  Passionate about technology, design, and education through hands-on creativity.
+</p>
 
-- 👨‍🏫 STEAM Educator & Computer Scientist
-- 💻 Currently teaching **Python**  
-- 🤝 Let’s connect and build together:
+---
 
+### 🧠 About Me
 
-<br>
-<br>
-<br>
+- 🎓 **STEAM educator** 
+- 🖨️ Enthusiast of **3D printing**, **woodworking**, and **digital fabrication**  
+- 🧩 Focused on integrating **programming, engineering, and education**  
+- 💡 Currently teaching **Python** and building projects that merge sustainability and creativity with technology  
+- 🌱 Always learning new tools and methods to make learning more meaningful  
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -31,3 +34,9 @@
   <img align="center" alt="SQL" title="SQL" height="30" width="30" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png"/>
   <img align="center" alt="Git" title="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=victorpaliari&label=Profile+views&color=blueviolet" alt="profile views" />
+</p>
